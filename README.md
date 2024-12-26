@@ -17,6 +17,31 @@ Another inefficient way to bypass GTA5 intro video. By replacing the original `r
 
 ---
 
+### Performance
+
+To showcase the effectiveness of this method, a comparison video has been provided.
+
+[![GTA5-Skiplntro, GTA5-ReKReation 로딩속도 비교](https://img.youtube.com/vi/U5xZESQhcQK/0.jpg)](https://youtu.be/U5xZESQhcQK)
+
+In this video:
+
+1. Vanilla GTA5:
+
+Duration: Approximately 60.23 seconds.
+
+The original intro sequence includes multiple logos and animations, significantly delaying the time to access the game.
+
+
+
+2. SkipIntro + ReKReation 1.5:
+
+Duration: Approximately 43.14 seconds.
+
+With the provided rockstar_logos.bik file, the intro is reduced to a single frame, effectively skipping the sequence almost instantly.
+
+This modification drastically reduces the time to start playing the game, saving you 17 seconds of waiting time each launch.
+
+---
 ### Notes
 - This method does not affect other parts of the game.  
 
