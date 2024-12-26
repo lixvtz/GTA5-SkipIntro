@@ -21,7 +21,7 @@ Another inefficient way to bypass GTA5 intro video. By replacing the original `r
 
 To showcase the effectiveness of this method, a comparison video has been provided.
 
-[![GTA5-Skiplntro, GTA5-ReKReation 로딩속도 비교](https://img.youtube.com/vi/U5xZESQhcQK/0.jpg)](https://youtu.be/U5xZESQhcQK)
+[YouTube](https://youtu.be/U5xZESQhcQk)
 
 In this video:
 
