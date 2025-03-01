@@ -22,7 +22,7 @@ Another inefficient way to bypass GTA5 intro video. By replacing the original `r
 To showcase the effectiveness of this method, a comparison video has been provided.
 
 [YouTube](https://youtu.be/U5xZESQhcQk)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U5xZESQhcQk?si=adeY3F4sf6sHvi0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![YouTube](http://img.youtube.com/vi/U5xZESQhcQk/0.jpg)](https://youtu.be/U5xZESQhcQk)
 
 In this video:
 
